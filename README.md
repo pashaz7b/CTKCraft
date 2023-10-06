@@ -2,8 +2,13 @@
 
 CTKCraft repo has some simple Python application that uses custom Tkinter modules to create a graphical user interface.
 
-#Videos Or ScreenShots
-![login](https://github.com/pashaz7b/CTKCraft/assets/122622842/38b00f82-ea12-44bb-86e6-0a749c882097)
+# Videos Or ScreenShots
+
+<div style="display: flex; align-items: center;">
+    <img style="width: 300px; margin-right: 10px;" src="https://github.com/pashaz7b/CTKCraft/blob/main/Simple%20Login%20%26%20SignUp%20GUI/images/login.png" alt="login">
+    <img style="width: 300px; margin-left: 10px;" src="https://github.com/pashaz7b/CTKCraft/blob/main/Simple%20Login%20%26%20SignUp%20GUI/images/signup.png" alt="signup">
+</div>
+
 
 ## Getting Started
 
