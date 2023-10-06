@@ -1,6 +1,6 @@
 # CTKCraft
 
-CTKCraft repo has some simple Python application that uses custom Tkinter modules to create a graphical user interface.
+CTKCraft repo has some simple Python application that uses custom Tkinter module to create a graphical user interface.
 
 # Videos Or ScreenShots
 
